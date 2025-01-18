@@ -1,7 +1,7 @@
 # Tiktok_Downloader
 Faster download of personal TikToks from the TikTok txt download
 Disclaimer
-⚠️ This code and instructions are provided "as is" without warranty of any kind. Use at your own risk. The author takes no responsibility for any data loss, damage, or other issues that may arise from using this code. Always backup your data and run code in an isolated environment.
+⚠️ This code and instructions are provided "as is" without warranty of any kind. They are merely instructional and meant as an example project. Use at your own risk. The author takes no responsibility for any data loss, damage, or other issues that may arise from using this code. Always backup your data and run code in an isolated environment.
 
 Step 1: Download TikTok Data
 

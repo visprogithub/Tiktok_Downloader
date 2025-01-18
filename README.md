@@ -13,7 +13,7 @@ Step 1: Download TikTok Data
     Wait for notification (may take several days)7
     Download the data when ready
     Extract the ZIP file to your dedicated folder
-    Go into the TikTok folder then the and you'll be using the Post.txt file - *This hasn't been testing with any of the other files or Recently Deleted Posts.txt
+    Go into the TikTok folder then the and you'll be using the Post.txt file - *This hasn't been tested with any of the other files or Recently Deleted Posts.txt
 
 Step 2: Set Up Development Environment
 

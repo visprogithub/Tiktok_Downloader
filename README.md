@@ -42,9 +42,9 @@ Build and Run
     Open terminal in VS Code (Ctrl+ or `Cmd+``)
     Ensure you're in the project directory
     Run these commands:
-
-dotnet build
-dotnet run
+    dotnet build
+    dotnet run
+    Alternatively you can use Visual Studio Code's built in debug
 
 Troubleshooting Project Creation
 If you encounter errors:
